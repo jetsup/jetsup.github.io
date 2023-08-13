@@ -1,0 +1,16 @@
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    list-style: none;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
