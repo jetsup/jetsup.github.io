@@ -1,0 +1,26 @@
+{
+  "name": "jetsup.github.io",
+  "version": "1.0.0",
+  "description": "Github Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetsup/jetsup.github.io.git"
+  },
+  "keywords": [
+    "github",
+    "pages",
+    "web",
+    "intro",
+    "basics"
+  ],
+  "author": "jetsup (George)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetsup/jetsup.github.io/issues"
+  },
+  "homepage": "https://github.com/jetsup/jetsup.github.io#readme"
+}
